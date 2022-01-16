@@ -1,1 +1,1 @@
-# Crying-colours-solution
+power sum-solution
